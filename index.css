@@ -16,6 +16,7 @@ header > img {
 #nav-bar {
     display: flex;
     margin-left: auto;
+    padding: 0 60px;
 
 }
 
